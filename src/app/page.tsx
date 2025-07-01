@@ -8,7 +8,7 @@ export default function Home() {
       <section className="w-full max-w-xl bg-white rounded-2xl shadow p-10 mb-12 flex flex-col items-center border border-[#e5e7eb]">
         <Image
           src="/icon.png"
-          alt="プロフィール画像"
+          alt="プロフィール"
           width={96}
           height={96}
           className="rounded-full mb-4 border-2 border-[#e5e7eb] object-cover"
